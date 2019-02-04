@@ -14,7 +14,11 @@ first();
 
 
 //None Blocking
-// Task Queue
+//Event Loop
+// setTimeout setInterval setImmediate
+// Promise(resolve, reject)
+// async, await
+//Task Queue
 function run() {
     console.log('Excute at 3 second after');
 }
