@@ -1,0 +1,1 @@
+// destructuring(비구조화 할당)
